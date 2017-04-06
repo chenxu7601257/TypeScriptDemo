@@ -1,3 +1,5 @@
+
+```
 //class
 class Student{
     firstName:string;
@@ -121,3 +123,4 @@ google.url='http://www.google.com.hk';
 google.facebookLikes=1234;
 console.log(google.FacebookLikes);
 google.FacebookLikes=1000;
+```
